@@ -1,6 +1,5 @@
 import React from "react";
-import ChooseUsImage from "../../Images/ChooseUsImage.jpg"
-
+import ChooseUsImage from "../../Images/chooseUsImage.jpg"
 const WhyChooseUs = () => {
   return (
     <div id="features" className=" bg-[#ffffff]">
